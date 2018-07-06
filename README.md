@@ -1,1 +1,1 @@
-# TensorFlow_Example1_StockPricePrediction
+# TensorFlow Example1: StockPricePrediction
